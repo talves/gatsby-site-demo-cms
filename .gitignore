@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+public/
+
+# Comment these lines after initial development run
+content/posts/
+content/authors/
+data/
