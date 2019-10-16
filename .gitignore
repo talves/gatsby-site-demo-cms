@@ -3,6 +3,6 @@ node_modules/
 public/
 
 # Comment these lines after initial development run
-content/posts/
-content/authors/
-data/
+# content/posts/
+# content/authors/
+# data/
